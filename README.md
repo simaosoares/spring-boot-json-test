@@ -24,6 +24,7 @@ At least on of the following dependencies must be included in `pom.xml` in order
    <artifactId>spring-boot-starter-web</artifactId>
    <scope>test</scope>
 </dependency>
+
 <dependency>
    <groupId>org.springframework.boot</groupId>
    <artifactId>spring-boot-starter-json</artifactId>
@@ -35,3 +36,4 @@ At least on of the following dependencies must be included in `pom.xml` in order
 ## References
 
 * https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html
+* https://stackoverflow.com/questions/49561025/spring-autoconfiguration-failing-with-jsontest
